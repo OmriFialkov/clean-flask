@@ -1,2 +1,1 @@
-# flask-catexer-app-actions
-trying github actions for the first time
+im building a clean flask app with no db.
